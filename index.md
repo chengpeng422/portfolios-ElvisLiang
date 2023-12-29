@@ -4,7 +4,8 @@
 
 ### Featured Projects
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/profile/shuchang.liang#!/vizhome/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
+[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)]
+(https://public.tableau.com/app/profile/cheng.peng5586/viz/google_bigquery_analytics/Dashboard1)
 - Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
 - Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
 - Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
@@ -24,18 +25,6 @@
 <img src="images/Retail Analytic1.png?raw=true"/>
 
 ---
-[Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
--	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
--	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
--	Transformed categorical variables into dummy variables using one-hot encoding.
--	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
-<img src="images/Random Forest AOC.png?raw=true"/>
-
-
-
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+
